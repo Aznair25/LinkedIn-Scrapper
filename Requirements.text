@@ -1,0 +1,8 @@
+pandas
+selenium
+bs4
+lxml
+openpyxl
+fastapi
+uvicorn
+pydantic
